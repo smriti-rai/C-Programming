@@ -1,3 +1,4 @@
-# C-Programming
+## C-Programming
+
 - Author: Smriti Rai
-- Learning C Programming with git
+- Objeective: Learning C Programming with git

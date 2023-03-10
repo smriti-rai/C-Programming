@@ -4,4 +4,4 @@ int main() {
    printf("Hello, Smriti!");
    return 0;
 }
- // This is a cpomment from vscode
+ // This is a comment from vscode
